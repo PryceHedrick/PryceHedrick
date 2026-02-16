@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ari-OS/ARI/main/docs/assets/ari-avatar.png" alt="ARI" width="160" style="border-radius: 50%;" />
-
 # Pryce Hedrick
 
-**Full-Stack Developer &middot; AI Systems Architect &middot; Founder**
+**Full-Stack Developer · AI Systems Architect · Founder**
 
-Building intelligent systems that think, protect, and act.
+Building intelligent, secure software that solves real problems.
 
 [![Website](https://img.shields.io/badge/prycehedrick.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://prycehedrick.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prycehedrick)
@@ -18,31 +16,9 @@ Building intelligent systems that think, protect, and act.
 
 ### About
 
-I build systems that are smarter than they need to be — and more secure than anyone expects. Founder of **Pryceless Solutions**, creator of **ARI**, and believer that the best software is the kind that watches your back while you're not looking.
+Full-stack developer and founder of **Pryceless Solutions**. I specialize in TypeScript/Node.js backends, React frontends, and AI-powered applications. I care deeply about security, clean architecture, and writing code that's tested and typed.
 
-By day, I work in school IT. By night, I architect AI systems with constitutional governance, tamper-evident audit trails, and multi-agent coordination. I like my code the way I like my security: zero-trust, typed, and tested.
-
----
-
-### Featured Project
-
-<div align="center">
-
-<a href="https://github.com/Ari-OS/ARI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ari-OS&repo=ARI&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" alt="ARI" />
-</a>
-
-**[ARI — Artificial Reasoning Intelligence](https://github.com/Ari-OS/ARI)**
-
-Your Life Operating System. Local-first, multi-agent AI with seven-layer architecture,
-three-pillar cognition (LOGOS/ETHOS/PATHOS), and constitutional governance.
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Ari-OS/ARI)
-[![Node.js](https://img.shields.io/badge/Node.js_20+-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/Ari-OS/ARI)
-[![Tests](https://img.shields.io/badge/4,600+_Tests-passing-brightgreen?style=flat-square)](https://github.com/Ari-OS/ARI)
-[![Security](https://img.shields.io/badge/Loopback_Only-127.0.0.1-critical?style=flat-square)](https://github.com/Ari-OS/ARI)
-
-</div>
+Currently building **ARI** — a local-first, multi-agent AI system with constitutional governance and a seven-layer architecture. It's the kind of project that keeps me up past midnight and I wouldn't have it any other way.
 
 ---
 
@@ -90,10 +66,19 @@ three-pillar cognition (LOGOS/ETHOS/PATHOS), and constitutional governance.
 
 ---
 
-### Other Projects
+### Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Ari-OS/ARI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ari-OS&repo=ARI&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" alt="ARI" />
+</a>
+
+</div>
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**ARI**](https://github.com/Ari-OS/ARI) | Local-first AI operating system — multi-agent architecture, constitutional governance, 4,600+ tests | TypeScript, Node.js |
 | [**OrderManagementSystem**](https://github.com/PryceHedrick/OrderManagementSystem) | Enterprise order management with FedEx shipping integration — award-winning capstone | ASP.NET, C#, SQL Server |
 | [**vault**](https://github.com/PryceHedrick/vault) | Pokemon TCG portfolio tracker with real-time pricing, analytics, and AI recommendations | Python, Flask |
 | [**JGMedia**](https://github.com/PryceHedrick/JGMedia) | Photography & drone services website — client project | React, Tailwind, Vite |
@@ -116,8 +101,6 @@ three-pillar cognition (LOGOS/ETHOS/PATHOS), and constitutional governance.
 
 <div align="center">
 
-*Building ARI — because the best assistant is the one that watches your back while you watch the sunset.*
-
-**PayThePryce**
+*Code. Ship. Repeat.*
 
 </div>
