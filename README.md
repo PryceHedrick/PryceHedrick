@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Ari-OS/ARI/main/docs/assets/ari-avatar.png" alt="ARI" width="160" style="border-radius: 50%;" />
+
 # Pryce Hedrick
 
 **Full-Stack Developer &middot; AI Systems Architect &middot; Founder**
