@@ -16,9 +16,9 @@ Building intelligent, secure software that solves real problems.
 
 ### About
 
-Full-stack developer and founder of **Pryceless Solutions**. I specialize in TypeScript/Node.js backends, React frontends, and AI-powered applications. I care deeply about security, clean architecture, and writing code that's tested and typed.
+Full-stack dev & AI systems architect. Building **ARI** — multi-agent AI OS (6,500+ tests, 35+ tasks, Telegram, MCP). Founder **@Pryceless-Solutions** — web development & AI consulting for growing businesses.
 
-Currently building **ARI** — a local-first, multi-agent AI system with constitutional governance and a seven-layer architecture. It's the kind of project that keeps me up past midnight and I wouldn't have it any other way.
+TypeScript/Node.js backend, React frontend, Anthropic Claude API, LLM integration, MCP Protocol, macOS launchd. I care about security, clean architecture, and code that's tested and typed.
 
 ---
 
@@ -78,11 +78,11 @@ Currently building **ARI** — a local-first, multi-agent AI system with constit
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**ARI**](https://github.com/Ari-OS/ARI) | Local-first AI operating system — multi-agent architecture, constitutional governance, 4,600+ tests | TypeScript, Node.js |
+| [**ARI**](https://github.com/Ari-OS/ARI) | Local-first AI OS — 7-layer multi-agent architecture, constitutional governance, 6,500+ tests, Telegram interface, MCP server | TypeScript, Node.js |
+| [**CardGuys.store**](https://cardguys.store) | Live e-commerce platform — expanded a card shop beyond eBay with real payment processing | JavaScript, React |
 | [**OrderManagementSystem**](https://github.com/PryceHedrick/OrderManagementSystem) | Enterprise order management with FedEx shipping integration — award-winning capstone | ASP.NET, C#, SQL Server |
 | [**vault**](https://github.com/PryceHedrick/vault) | Pokemon TCG portfolio tracker with real-time pricing, analytics, and AI recommendations | Python, Flask |
-| [**JGMedia**](https://github.com/PryceHedrick/JGMedia) | Photography & drone services website — client project | React, Tailwind, Vite |
-| [**pryceless-solutions**](https://github.com/PryceHedrick/pryceless-solutions) | Professional web development portfolio | React, Tailwind, Vite |
+| [**pryceless-solutions**](https://github.com/PryceHedrick/pryceless-solutions) | Web development & AI consulting portfolio — custom websites + AI automation for growing businesses | React, Tailwind, Vite |
 
 ---
 
