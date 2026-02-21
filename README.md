@@ -16,9 +16,9 @@ Building intelligent, secure software that solves real problems.
 
 ### About
 
-Full-stack dev & AI systems architect. Building **ARI** — multi-agent AI OS (6,500+ tests, 35+ tasks, Telegram, MCP). Founder **@Pryceless-Solutions** — web development & AI consulting for growing businesses.
+**Enterprise IT Engineer & AI Systems Architect.** Building **ARI** — a 7-layer multi-agent autonomous operating system (6,700+ tests, 24 CLI commands, Telegram & MCP integration). Founder **@Pryceless-Solutions** — enterprise AI integrations & custom operational pipelines.
 
-TypeScript/Node.js backend, React frontend, Anthropic Claude API, LLM integration, MCP Protocol, macOS launchd. I care about security, clean architecture, and code that's tested and typed.
+Designing and scaling high-availability enterprise infrastructure by day; architecting secure, local-first artificial intelligence ecosystems by night. I prioritize security, zero-trust architecture, and systems that are rigorously tested and strongly typed.
 
 ---
 
@@ -78,11 +78,11 @@ TypeScript/Node.js backend, React frontend, Anthropic Claude API, LLM integratio
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**ARI**](https://github.com/Ari-OS/ARI) | Local-first AI OS — 7-layer multi-agent architecture, constitutional governance, 6,500+ tests, Telegram interface, MCP server | TypeScript, Node.js |
+| [**ARI**](https://github.com/Ari-OS/ARI) | Local-first AI OS — 7-layer multi-agent architecture, constitutional governance, 6,700+ tests, 24 CLI commands, Telegram & MCP interface | TypeScript, Node.js |
 | [**CardGuys.store**](https://cardguys.store) | Live e-commerce platform — expanded a card shop beyond eBay with real payment processing | JavaScript, React |
 | [**OrderManagementSystem**](https://github.com/PryceHedrick/OrderManagementSystem) | Enterprise order management with FedEx shipping integration — award-winning capstone | ASP.NET, C#, SQL Server |
 | [**vault**](https://github.com/PryceHedrick/vault) | Pokemon TCG portfolio tracker with real-time pricing, analytics, and AI recommendations | Python, Flask |
-| [**pryceless-solutions**](https://github.com/PryceHedrick/pryceless-solutions) | Web development & AI consulting portfolio — custom websites + AI automation for growing businesses | React, Tailwind, Vite |
+| [**pryceless-solutions**](https://github.com/PryceHedrick/pryceless-solutions) | Enterprise AI integrations & custom operational pipelines portfolio | React, Tailwind, Vite |
 
 ---
 
