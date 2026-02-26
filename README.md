@@ -1,10 +1,8 @@
 <div align="center">
 
-# Pryce Hedrick
+# 0xPryce
 
-**Full-Stack Developer · AI Systems Architect · Founder**
-
-Building intelligent, secure software that solves real problems.
+**Building Intelligent Systems in Public**
 
 [![Website](https://img.shields.io/badge/prycehedrick.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://prycehedrick.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prycehedrick)
@@ -16,9 +14,9 @@ Building intelligent, secure software that solves real problems.
 
 ### About
 
-**Enterprise IT Engineer & AI Systems Architect.** Building **ARI** — a 7-layer multi-agent autonomous operating system (6,700+ tests, 24 CLI commands, Telegram & MCP integration). Founder **@Pryceless-Solutions** — enterprise AI integrations & custom operational pipelines.
+Full-stack engineer & AI systems architect. Building **ARI** — a local-first AI operating system with 6 specialized agents, 13 OpenClaw plugins, and 6,700+ tests. Founder of **Pryceless Solutions** — web development and AI consulting for growing Indiana businesses. Creator of **PayThePryce** — autonomous YouTube content pipeline for the Pokemon TCG market.
 
-Designing and scaling high-availability enterprise infrastructure by day; architecting secure, local-first artificial intelligence ecosystems by night. I prioritize security, zero-trust architecture, and systems that are rigorously tested and strongly typed.
+TypeScript/Node.js backend, React frontend, multi-agent orchestration, MCP Protocol, macOS launchd. I care about security, clean architecture, and code that is tested and typed.
 
 ---
 
@@ -45,12 +43,13 @@ Designing and scaling high-availability enterprise infrastructure by day; archit
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
 
 **AI & Data**
 
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-412991?style=flat-square&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
@@ -59,8 +58,7 @@ Designing and scaling high-availability enterprise infrastructure by day; archit
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord_Bot-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 </div>
 
@@ -78,11 +76,12 @@ Designing and scaling high-availability enterprise infrastructure by day; archit
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**ARI**](https://github.com/Ari-OS/ARI) | Local-first AI OS — 7-layer multi-agent architecture, constitutional governance, 6,700+ tests, 24 CLI commands, Telegram & MCP interface | TypeScript, Node.js |
+| [**ARI**](https://github.com/Ari-OS/ARI) | Local-first AI OS — 6 named agents, 13 OpenClaw plugins, 7-layer architecture, constitutional governance, 6,700+ tests | TypeScript, Node.js |
+| [**PayThePryce**](https://youtube.com/@PayThePryce) | Autonomous YouTube content pipeline — PULSE monitors Pokemon TCG markets, NOVA generates and queues videos for approval | TypeScript, Claude API |
 | [**CardGuys.store**](https://cardguys.store) | Live e-commerce platform — expanded a card shop beyond eBay with real payment processing | JavaScript, React |
 | [**OrderManagementSystem**](https://github.com/PryceHedrick/OrderManagementSystem) | Enterprise order management with FedEx shipping integration — award-winning capstone | ASP.NET, C#, SQL Server |
 | [**vault**](https://github.com/PryceHedrick/vault) | Pokemon TCG portfolio tracker with real-time pricing, analytics, and AI recommendations | Python, Flask |
-| [**pryceless-solutions**](https://github.com/PryceHedrick/pryceless-solutions) | Enterprise AI integrations & custom operational pipelines portfolio | React, Tailwind, Vite |
+| [**pryceless-solutions**](https://github.com/PryceHedrick/pryceless-solutions) | Web development & AI consulting portfolio — custom websites + AI automation for growing businesses | React, Tailwind, Vite |
 
 ---
 
@@ -101,6 +100,6 @@ Designing and scaling high-availability enterprise infrastructure by day; archit
 
 <div align="center">
 
-*Code. Ship. Repeat.*
+_Build systems that work while you sleep._
 
 </div>
