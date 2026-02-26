@@ -78,9 +78,6 @@ TypeScript/Node.js backend, React frontend, multi-agent orchestration, MCP Proto
 |---------|-------------|-------|
 | [**ARI**](https://github.com/PryceHedrick/ari) | Personal AI OS — 6 named agents, 13 OpenClaw plugins, 7-layer architecture, 3-gate governance, 24 scheduled tasks, autonomous content and lead pipelines | TypeScript, OpenClaw |
 | [**CardGuys.store**](https://cardguys.store) | Live e-commerce platform — expanded a card shop beyond eBay with real payment processing | JavaScript, React |
-| [**OrderManagementSystem**](https://github.com/PryceHedrick/OrderManagementSystem) | Enterprise order management with FedEx shipping integration — award-winning capstone | ASP.NET, C#, SQL Server |
-| [**vault**](https://github.com/PryceHedrick/vault) | Pokemon TCG portfolio tracker with real-time pricing, analytics, and AI recommendations | Python, Flask |
-| [**pryceless-solutions**](https://github.com/PryceHedrick/pryceless-solutions) | Web development & AI consulting portfolio — custom websites + AI automation for growing businesses | React, Tailwind, Vite |
 
 ---
 
