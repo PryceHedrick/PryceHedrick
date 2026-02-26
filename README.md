@@ -14,7 +14,7 @@
 
 ### About
 
-Full-stack engineer & AI systems architect. Building **ARI** — a local-first AI operating system with 6 specialized agents, 13 OpenClaw plugins, and 6,700+ tests. Founder of **Pryceless Solutions** — web development and AI consulting for growing Indiana businesses. Creator of **PayThePryce** — autonomous YouTube content pipeline for the Pokemon TCG market.
+Full-stack engineer & AI systems architect. Building **ARI** — a local-first AI operating system with 6 specialized agents, 13 OpenClaw plugins, and autonomous business pipelines. Founder of **Pryceless Solutions** — web development and AI consulting for growing businesses.
 
 TypeScript/Node.js backend, React frontend, multi-agent orchestration, MCP Protocol, macOS launchd. I care about security, clean architecture, and code that is tested and typed.
 
@@ -68,16 +68,15 @@ TypeScript/Node.js backend, React frontend, multi-agent orchestration, MCP Proto
 
 <div align="center">
 
-<a href="https://github.com/Ari-OS/ARI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ari-OS&repo=ARI&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" alt="ARI" />
+<a href="https://github.com/PryceHedrick/ari">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PryceHedrick&repo=ari&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" alt="ARI" />
 </a>
 
 </div>
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**ARI**](https://github.com/Ari-OS/ARI) | Local-first AI OS — 6 named agents, 13 OpenClaw plugins, 7-layer architecture, constitutional governance, 6,700+ tests | TypeScript, Node.js |
-| [**PayThePryce**](https://youtube.com/@PayThePryce) | Autonomous YouTube content pipeline — PULSE monitors Pokemon TCG markets, NOVA generates and queues videos for approval | TypeScript, Claude API |
+| [**ARI**](https://github.com/PryceHedrick/ari) | Personal AI OS — 6 named agents, 13 OpenClaw plugins, 7-layer architecture, 3-gate governance, 24 scheduled tasks, autonomous content and lead pipelines | TypeScript, OpenClaw |
 | [**CardGuys.store**](https://cardguys.store) | Live e-commerce platform — expanded a card shop beyond eBay with real payment processing | JavaScript, React |
 | [**OrderManagementSystem**](https://github.com/PryceHedrick/OrderManagementSystem) | Enterprise order management with FedEx shipping integration — award-winning capstone | ASP.NET, C#, SQL Server |
 | [**vault**](https://github.com/PryceHedrick/vault) | Pokemon TCG portfolio tracker with real-time pricing, analytics, and AI recommendations | Python, Flask |
